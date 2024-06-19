@@ -59,7 +59,7 @@ we can toggle the graph view from line to bar graph and vise versa
 
 ## DEMO Video
 ### *click below image to play the video*
-[<p align="center"><img align="center" src="https://github.com/Rahul-space/EVM_Software/assets/75579264/600fa4b4-c992-475e-bebd-a43179439999" width="48%" ></p> ](https://youtu.be/Jrc4TFfoG7k?si=J2oFVoLmt3jMosls)
+<a  href="https://youtu.be/Jrc4TFfoG7k?si=J2oFVoLmt3jMosls" align="center"><img align="center" src="https://github.com/Rahul-space/EVM_Software/assets/75579264/600fa4b4-c992-475e-bebd-a43179439999" width="48%" ></a> (https://youtu.be/Jrc4TFfoG7k?si=J2oFVoLmt3jMosls)
 *.* *.*
 
 # Other Development images 
